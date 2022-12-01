@@ -15,19 +15,6 @@ A web app for tracking expenses and budgets.
   * Back-end: [Flask](https://flask.palletsprojects.com)
   * Hosting: [Heroku](https://www.heroku.com)
 
-## Demo
-### Dashboard
-<img src="https://raw.githubusercontent.com/eddyharrington/Tendie-Tracker/master/docs/dashboard.gif" height="400">
-
-### Expensing
-<img src="https://raw.githubusercontent.com/eddyharrington/Tendie-Tracker/master/docs/expensing.gif" height="400">
-
-### Budgets
-<img src="https://raw.githubusercontent.com/eddyharrington/Tendie-Tracker/master/docs/budgets.gif" height="400">
-
-### Reports
-<img src="https://raw.githubusercontent.com/eddyharrington/Tendie-Tracker/master/docs/reports.gif" height="400">
-
 ## Run it locally (written for Windows and VSCode)
 1) Create a directory and clone the repo in it:
 ```
